@@ -1,0 +1,20 @@
+h1 {
+    background-color: blue;
+    color: white;
+}
+img{
+    width: 250px;
+    float: right;
+}
+.description{
+    border: 2px solid orange;
+    border-radius: 5px;
+    font-size: 22px;
+    padding: 10px
+}
+
+h3{
+    margin-top: 150px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
