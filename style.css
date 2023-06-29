@@ -8,9 +8,15 @@ img{
 }
 .description{
     border: 2px solid orange;
+    text-shadow: 0 0 1em green;
     border-radius: 5px;
     font-size: 22px;
     padding: 10px
+}
+.p1{
+     font-style: oblique;
+     text-align: center;
+     font-size: 24px;
 }
 
 h3{
