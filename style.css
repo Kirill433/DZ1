@@ -8,7 +8,7 @@ img{
 }
 .description{
     border: 2px solid orange;
-    text-shadow: 0 0 1em green;
+    text-shadow: green 1px 0 5px;
     border-radius: 5px;
     font-size: 22px;
     padding: 10px
